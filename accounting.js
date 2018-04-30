@@ -9,7 +9,10 @@
  * http://openexchangerates.github.io/accounting.js/
  */
 
-(function(root, undefined) {
+// TO DO: check out demo functions in index.html
+
+
+ (function(root, undefined) {
 
 	/* --- Setup --- */
 
